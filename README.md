@@ -2,7 +2,7 @@
 NSF GRANT CANCELLATIONS ANALYSIS
 =================================================
 
-AUTHORS: [VotreNom1], [VotreNom2]
+AUTHORS: Thea, Mathys
 COURSE: Data Visualization
 DATE: November 2025
 
@@ -72,11 +72,6 @@ TECHNICAL NOTES
 - Statistical tests: Chi-square, Fisher's exact
 - Confidence intervals: Wilson method
 
-=================================================
-SUPPORT
-=================================================
 
-For questions or issues, contact:
-[Your Email]
 
 =================================================# Project_1_VI
