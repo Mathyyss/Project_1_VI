@@ -7,8 +7,25 @@ COURSE: Data Visualization
 DATE: November 2025
 
 =================================================
-INSTALLATION & EXECUTION
+INSTALLATION (Linux/Ubuntu)
 =================================================
+
+1. Create virtual environment:
+   python3 -m venv venv
+
+2. Activate virtual environment:
+   source venv/bin/activate
+
+3. Install packages:
+   pip install streamlit pandas altair vega-datasets scipy statsmodels
+
+4. Run application:
+   streamlit run app.py
+
+5. Open browser at:
+   http://localhost:8501
+
+NOTE: To deactivate the virtual environment, type: deactivate
 
 1. Install required packages:
    
